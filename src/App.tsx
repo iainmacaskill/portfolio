@@ -166,13 +166,7 @@ function About() {
         <p>
           My test for any AI system is not how much it can produce, but what it is not allowed to
           do, and who signs it off. That governance discipline sits alongside delivery in
-          everything below: a pan-European data and AI programme taken from a 2,000-plus ticket
-          backlog with no delivery process to AI in production in six weeks (quote automation
-          running at roughly 93% accuracy, a natural-language assistant handling 100 to 150
-          queries a day); a regulated healthcare AI programme spanning clinical safety,
-          information governance and assurance, with decision support deployed to frontline
-          emergency call handlers; and a data platform re-governed under Purview and Unity
-          Catalog while cutting platform costs by around 30%.
+          everything below.
         </p>
         <p>
           I cannot write code, and that is rather the point of this site. Everything in the

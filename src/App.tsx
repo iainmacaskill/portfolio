@@ -123,7 +123,7 @@ function SidebarRail() {
         <div className="mt-6 font-mono text-[11px] uppercase tracking-widest text-navy-mid">
           <p className="text-navy-deep/40">Sectors</p>
           <p className="mt-2">Enterprise</p>
-          <p>NHS / Healthcare</p>
+          <p>Healthcare</p>
           <p>Regulated Data</p>
         </div>
         <div className="mt-6 font-mono text-[11px] uppercase tracking-widest text-navy-mid">
@@ -148,7 +148,8 @@ function Hero() {
         I find the process quietly eating a team's time, rebuild it with AI, prove the saving,
         then move it onto local, governed models so it runs at near zero cost with the data
         staying put. Most recently: AI in production within six weeks of joining a distressed
-        programme, and a regulated NHS AI system live with 999 call handlers.
+        programme, and a regulated healthcare AI system live with frontline emergency call
+        handlers.
       </p>
       <div className="animate-scale-x mt-10 border-t border-navy-deep/20" />
     </section>
@@ -168,10 +169,10 @@ function About() {
           everything below: a pan-European data and AI programme taken from a 2,000-plus ticket
           backlog with no delivery process to AI in production in six weeks (quote automation
           running at roughly 93% accuracy, a natural-language assistant handling 100 to 150
-          queries a day); a regulated NHS AI programme spanning clinical safety, information
-          governance and assurance, with decision support deployed to 999 call handlers; and a
-          data platform re-governed under Purview and Unity Catalog while cutting platform costs
-          by around 30%.
+          queries a day); a regulated healthcare AI programme spanning clinical safety,
+          information governance and assurance, with decision support deployed to frontline
+          emergency call handlers; and a data platform re-governed under Purview and Unity
+          Catalog while cutting platform costs by around 30%.
         </p>
         <p>
           I cannot write code, and that is rather the point of this site. Everything in the

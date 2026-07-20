@@ -18,6 +18,8 @@ const SECONDARY_PROJECTS = [
     title: 'Second brain pipelines',
     description:
       'Local, zero-cost pipelines that turn meeting audio and podcast archives into searchable, linked knowledge bases: automatic transcription with speaker recognition, then ingestion into a structured vault an LLM can query and maintain.',
+    href: 'https://iainmacaskill.github.io/foiling-second-brain/',
+    linkLabel: 'View the demo',
   },
 ]
 
